@@ -3,6 +3,8 @@
     url for students: 
         ?outputOnly=true&runOption=run
 
+    probably depricate this, switched to html on website
+
 '''
 
 score = 0
